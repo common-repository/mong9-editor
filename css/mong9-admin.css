@@ -1,0 +1,5 @@
+#mong9-view-btn{margin:10px 0}
+#mong9-view-btn._for-gutenberg{margin:0 15px}
+.mong9-editor-btn{display:inline-block;background:#ca4a1f;color:#fff;padding:10px 20px;height:auto;border-radius:5px;border:none;box-shadow:none;text-shadow:none;text-decoration:none}
+.mong9-editor-btn:hover,.mong9-editor-btn:focus{background:#712f19;color:#fff}
+.mong9-editor-btn:active{position:relative;top:1px}
